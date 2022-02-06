@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+    margin: 128px 0 12px 16px;
+}
+
+p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+    padding-left: 16px;
+    padding-bottom: 102px;
+}
+
+input {
+    width: 343px;
+    height: 48px;
+    background: #F2F2F7;
+    border-radius: 6px;
+    border: none;
+    margin: 0 auto 12px auto;
+    display: block;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    padding-left: 14px;
+    color: #929292;
+}
+
+.forgot-password {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;    
+    font-size: 16px;
+    line-height: 22px;
+    color: #007AFF;
+    margin: 17px 16px 20px auto;
+    display: block;
+    text-align: right;
+}
+
+button {
+    width: 343px;
+    height: 48px;
+    background: #000000;
+    border-radius: 10px;
+    border: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+    color: #FFFFFF;
+    display: block;
+    margin: 0 auto 200px auto;
+}
+
+.link-signup {
+    margin-bottom: 39px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.51);
+    text-align: center;
+    display: block;
+}
+
+strong {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #007AFF
+}
+
+
+
+
