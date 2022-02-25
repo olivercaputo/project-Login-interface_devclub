@@ -2,7 +2,7 @@
 
 <center>
     <img src="./img/Login-photo.jpg" alt="Login-Interface">
-</center>
+<center>
 
 > Login interface design.
 
