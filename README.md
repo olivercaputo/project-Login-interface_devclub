@@ -1,25 +1,42 @@
-# Project Login Interface DevClub - Note
+<h2>🚀 Nome do Projeto:</h2>
 
-<center>
-    <img src="./img/Login-photo.jpg" alt="Login-Interface">
-<center>
+<h3>Login Interface - DevClub.</h3>
 
-> Login interface design.
+<img src="./img/Login-photo.jpg" alt="Login-Interface"/>
 
-### Ajustes e melhorias
+<h2>📝 Descrição do Projeto:</h2>
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+<h3>Outra simples Interface de Login feita utilizando HTML e CSS.</h3>
+
+<br>
+
+<h2>🖥️ Linguagens Utilizadas:</h2>
+
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>
+
+<h2>🧰 Ajustes e melhorias:</h2>
+
+<h4>O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:</h4>
 
 - [x] Criação do HTML.
 - [x] Criação do CSS.
 - [ ] Atualização da Interface.
+- [ ] Criação do Javascript.
 
-## 💻 Pré-requisitos
+<br>
 
-Apenas ter um computador ligado à Internet e uma conta no GitHub para visualizar.
-## 🤝 Colaboradores
+<h2>💻 Pré-requisitos:</h2>
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+<h4>Apenas ter um computador ligado à Internet e uma conta no GitHub para visualizar.</h3>
+
+<br>
+
+<h2>🤝 Colaboradores</h2>
+
+<h4>Agradeço às seguintes pessoas que contribuíram para este projeto:</h4>
 
 <table>
   <tr>
